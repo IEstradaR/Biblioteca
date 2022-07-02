@@ -12,6 +12,7 @@ public class Libro {
     private int codigoL;
     private String titulo;
     private String autor;
+    private String localizacion;
 
     public Libro() {
     }
